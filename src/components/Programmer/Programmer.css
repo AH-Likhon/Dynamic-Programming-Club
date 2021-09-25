@@ -1,0 +1,32 @@
+.programmer{
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px lightslategrey;
+}
+
+.programmer:hover{
+    background-color: cadetblue;
+}
+
+.programmer img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.details{
+    line-height: 5px;
+}
+
+.select-btn{
+    background-color: goldenrod;
+    border-radius: 10px;
+    border: 1px solid lightslategray;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}

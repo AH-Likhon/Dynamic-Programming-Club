@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Dennis Ritchie",
+        "salary": 300000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-GqbDdU4zyQo/Uwjje48KzOI/AAAAAAAACG4/cblGVCdXbBY/s1600/Dennis+Ritchie.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+        "nationality": "American",
+        "creator": "C",
+        "born": 1941
+    },
+    {
+        "id": 2,
+        "name": "Bjarne Stroustrup",
+        "salary": 350000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-vA6b9fnfJoI/UwjjqFOqmNI/AAAAAAAACHA/sEQMP00onaw/s1600/Bjarne+Stroustrup.jpg?ezimgfmt=rs:400x300/rscb1/ng:webp/ngcb1",
+        "nationality": "Danish",
+        "creator": "C++",
+        "born": 1950
+    },
+    {
+        "id": 3,
+        "name": "James Gosling",
+        "salary": 350000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-XTVhSIzm6T8/UwjlCPAeONI/AAAAAAAACIA/_VEtLp5256o/s1600/James+Gosling.jpg?ezimgfmt=rs:317x319/rscb1/ng:webp/ngcb1",
+        "nationality": "Canadian",
+        "creator": "Java",
+        "born": 1955
+    },
+    {
+        "id": 4,
+        "name": "Linus Torvalds",
+        "salary": 450000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-WFFYmpAjcbY/Uwjj4OJAi1I/AAAAAAAACHI/Q3IID-7Exao/s1600/Linus+Torvalds.jpeg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1",
+        "nationality": "American",
+        "creator": "Java",
+        "born": 1969
+    },
+    {
+        "id": 5,
+        "name": "Anders Hejlsberg",
+        "salary": 450000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-F3kb76UMANk/Uwq6fhjIEuI/AAAAAAAACIY/thLBBgmOuwM/s1600/Anders+Hejlsberg.jpg?ezimgfmt=rs:292x398/rscb1/ng:webp/ngcb1",
+        "nationality": "Danish",
+        "creator": "C#",
+        "born": 1960
+    },
+    {
+        "id": 6,
+        "name": "Tim Berners-Lee",
+        "salary": 250000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-r4Lw1v8wP3o/UwjkHcoKMcI/AAAAAAAACHQ/41SzDLQs3M0/s1600/Tim+Berners-Lee.jpg?ezimgfmt=rs:320x320/rscb1/ng:webp/ngcb1",
+        "nationality": "British",
+        "creator": "HTTP",
+        "born": 1955
+    },
+    {
+        "id": 7,
+        "name": "Anders Hejlsberg",
+        "salary": 200000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-vjmojesfTK0/UwjkPF_nLLI/AAAAAAAACHY/7cTOimc_e5g/s1600/Brian+Kernighan.jpg?ezimgfmt=rs:400x267/rscb1/ng:webp/ngcb1",
+        "nationality": "Canadian",
+        "creator": "AWK and AMPL",
+        "born": 1960
+    },
+    {
+        "id": 8,
+        "name": "Ken Thompson",
+        "salary": 300000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-Zznu7fM9g30/UwjkeqBlcjI/AAAAAAAACHo/EHhf0RF-nF8/s1600/Ken+Thompson.jpg?ezimgfmt=rs:320x317/rscb1/ng:webp/ngcb1",
+        "nationality": "American",
+        "creator": "B programming language",
+        "born": 1943
+    },
+    {
+        "id": 9,
+        "name": "Guido van Rossum",
+        "salary": 300000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-EtgZqoZX2dE/Uwjk3qbwbBI/AAAAAAAACH4/8vJw4USybms/s1600/Guido+van+Rossum.jpg?ezimgfmt=rs:296x398/rscb1/ng:webp/ngcb1",
+        "nationality": "Dutch",
+        "creator": "Python",
+        "born": 1956
+    },
+    {
+        "id": 10,
+        "name": "Donald Knuth",
+        "salary": 450000,
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-S_87vSTDN60/UwjkX9yyl4I/AAAAAAAACHg/FImj-V0oPHE/s1600/Donald+Kuth.jpg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1",
+        "nationality": "American",
+        "creator": "TeX computer typesetting",
+        "born": 1938
+    },
+    {
+        "id": 11,
+        "name": "Rasmus Lerdorf",
+        "salary": 400000,
+        "img": "https://cdn.thenewstack.io/media/2019/09/e00b9dd6-1600px-rasmus_lerdorf_august_2014_cropped-by-william-stadtwald-demchick-via-wikipedia.jpg",
+        "nationality": "Danish",
+        "creator": "PHP",
+        "born": 1968
+    },
+    {
+        "id": 12,
+        "name": "Brendan Eich",
+        "salary": 420000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
+        "nationality": "American",
+        "creator": "JavaScript",
+        "born": 1961
+    }
+]

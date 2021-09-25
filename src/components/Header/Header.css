@@ -1,0 +1,10 @@
+.header-container{
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    line-height: 10px;
+}
+.header-title{
+    color: rgb(11, 138, 143);
+    font-weight: bold;
+}
