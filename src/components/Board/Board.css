@@ -1,4 +1,25 @@
 .board-container{
-    line-height: 20px;
-    margin-top: 50px;
+    line-height: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    /* height: auto; */
+}
+
+.display-prgrammers-name{
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+}
+
+.display-prgrammers-name img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }

@@ -1,12 +1,12 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShoppingBasket } from '@fortawesome/free-solid-svg-icons';
+import { faPlusSquare } from '@fortawesome/free-solid-svg-icons';
 import './Programmer.css'
 
 const Programmer = (props) => {
     // console.log(props.programmer);
     const { name, salary, img, nationality, creator, born } = props.programmer;
-    const fontIcon = <FontAwesomeIcon icon={faShoppingBasket} />
+    const fontIcon = <FontAwesomeIcon icon={faPlusSquare} />
 
     return (
         <div className="programmer">

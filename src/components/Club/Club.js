@@ -6,6 +6,7 @@ import './Club.css'
 const Club = () => {
     const [programmers, setProgrammers] = useState([]);
     const [board, setBoard] = useState([]);
+    // console.log(board);
 
     useEffect(() => {
         fetch('./fakedata.json')

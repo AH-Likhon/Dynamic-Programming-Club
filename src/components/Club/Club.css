@@ -15,7 +15,8 @@
 .programmers-added-cotainer{
     text-align: center;
     background-color: cadetblue;
-    height: 300px;
+    height: 100px;
     border-radius: 10px;
     color: white;
+    /* overflow-y: scroll; */
 }
