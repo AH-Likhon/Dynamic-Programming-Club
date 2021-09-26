@@ -4,10 +4,13 @@ import Programmer from '../Programmer/Programmer';
 import './Club.css'
 
 const Club = () => {
+
+    // useState
     const [programmers, setProgrammers] = useState([]);
     const [board, setBoard] = useState([]);
     // console.log(board);
 
+    // useEffect for load fake data
     useEffect(() => {
         fetch('./fakedata.json')
             .then(res => res.json())

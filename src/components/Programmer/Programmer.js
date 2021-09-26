@@ -6,6 +6,8 @@ import './Programmer.css'
 const Programmer = (props) => {
     // console.log(props.programmer);
     const { name, salary, img, nationality, creator, born } = props.programmer;
+
+    // font awesome icon
     const fontIcon = <FontAwesomeIcon icon={faPlusSquare} />
 
     return (
